@@ -13,5 +13,7 @@ Learning iOS in yagom-academy
 
 ### Contact 📮
 
+<br>
+
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyw2100@gmail.com)](mailto:lyw2100@gmail.com) <a href="https://velog.io/@leeyoungwoozz" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
